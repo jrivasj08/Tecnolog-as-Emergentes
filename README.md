@@ -27,10 +27,13 @@ Los Centros Comunitarios de Salud Mental (COSAM) concentran una alta demanda de 
 
 
 ### Datos cuantitativos
-
-* [Agregar una cifra relevante y su fuente.]
-* [Agregar otra estadística y su fuente.]
-
+#### Construyendo Salud Mental, MINSAL (2024)
+Aproximadamente 1 de cada 4 personas que requerirían atención accede de manera estable a prestaciones de salud mental en atención primaria pública. En 2022 había 907.407 personas bajo control y solo cerca del 17% correspondía a especialidad. En 2023, la mediana de espera para psiquiatría adulta e infanto-adolescente superaba los 7 meses.
+* Fuente:  https://www.minsal.cl/wp-content/uploads/2024/05/2024.05.28_CONSTRUYENDO-SALUD-MENTAL.pdf?utm_source=chatgpt.com
+#### Informe presupuestario de Salud, Superintendencia de salud (2019)
+Para COSAM La Reina aparecen 4.170 consultas programadas y 2.057 realizadas hasta agosto de 2019, equivalentes al 49,35% de la programación anual.
+* Fuente: https://www.senado.cl/site/presupuesto/2019/cumplimiento/Glosas%202019/Tercera%20Subcomision/16%20Salud/2369%20Salud.pdf?utm_source=chatgpt.com
+* Acotación: El informe presupuestario es antiguo y debe compararse con datos actualizados a nivel de la comuna.
 ### Datos cualitativos
 
 #### Entrevista Doctora Constanza Rivas, Médico General CESFAM Sarmiento Curicó (18-08-2026)
@@ -41,7 +44,7 @@ La derivación para atención directa con un psiquiatra del COSAM ocurre princip
 La profesional también señaló que el COSAM recibe derivaciones provenientes tanto de los CESFAM como del hospital, lo que aumente la demanda que debe atender el centro. 
 
 
-### Columna de opinión Mario Villalobos en Bío-Bío Chile (04-06-2026)
+#### Columna de opinión Mario Villalobos en Bío-Bío Chile (04-06-2026)
 Mario Villalobos, director del Observatorio de Atención Primaria de AMUCH, plantea que la Atención Primaria de Salud funciona como puerta de entrada para detectar las primeras señales de problemas de salud mental. Sin embargo, señala que este nivel no dispone de toda la capacidad terapéutica y de intervención necesaria para abordar casos moderados y graves de pacientes.
 
 En este contexto, el autor destaca el papel de los COSAM como centros de atención secundaria especializada, capaces de trabajar con las personas, sus familias y sus comunidades, además de intervenir en crisis de mayor complejidad. También identifica una fragmentación entre la red de salud mental y otras instituciones, lo que puede ocasionar respuestas tardías y derivaciones cuando el problema ya se ha agravado.
