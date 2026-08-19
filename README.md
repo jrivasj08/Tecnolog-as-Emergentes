@@ -6,10 +6,6 @@ Investigación de proyecto basado en mejorar la experiencia asociada a las lista
 * Ambar Guerra
 * Javiera Jadue
 * Javiera Rivas
-  
-## Curso
-
-Laboratorio Interdisciplinario Tecnologías Emergentes Para El Desarrollo de Soluciones
 
 ## Avance 18-08-2026
 ### 1. Problemática y enmarque
