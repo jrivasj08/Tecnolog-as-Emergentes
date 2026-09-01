@@ -24,7 +24,37 @@ Los Centros Comunitarios de Salud Mental (COSAM) concentran una alta demanda de 
 ## 4. Visita a Terreno
 ## 5. Levantamiento de información a Pacientes
 ## 6. Problema y Objetivos
+
+#### PROBLEMÁTICA
+En la red pública de salud mental de La Reina, personas jóvenes de 18 a 29 años, beneficiarias de la red pública de salud, que han sido derivadas por primera vez desde la atención primaria hacia el COSAM, enfrentan un periodo de espera entre la derivación y el establecimiento de controles regulares. Durante este proceso, pueden presentarse dificultades de acceso, seguimiento y continuidad de la atención, especialmente mientras la persona se encuentra fuera de un tratamiento especializado estable. Esta brecha puede dificultar la orientación de las personas usuarias, su vinculación con la atención especializada y la continuidad de su proceso de atención, limitando la posibilidad de responder oportunamente a su malestar.
+
+#### OBJETIVOS 
+##### Objetivo General
+Diseñar un sistema de acompañamiento para jóvenes adultos de 18 a 29 años derivados desde atención primaria al COSAM de La Reina, que contribuya a fortalecer la orientación, vinculación y continuidad de su proceso de atención durante la transición hacia controles especializados regulares.
+##### Objetivos Específicos
+* Analizar el proceso de derivación y espera desde la atención primaria hasta el ingreso a controles regulares en el COSAM de La Reina, caracterizando sus etapas y actores e identificando las principales dificultades, necesidades y puntos de quiebre experimentados por las personas usuarias.
+* Comprender la experiencia de pacientes, familiares, funcionarios y especialistas durante el proceso de derivación, espera y atención en el COSAM de La Reina.
+* Clasificar los tipos de usuarios según necesidades, requerimientos y condiciones (relación previa con la salud mental)
+   
 ## 7. Stakeholders
+### USUARIOS
+* Pacientes en proceso de derivación a COSAM
+* Pacientes en tratamiento/controles activos
+* Familiares de personas usuarias
+* Cuidadores de personas usuarias
+
+### ENTIDADES
+* COSAM La Reina (centro especializado)
+* CESFAM de La Reina (atención primaria y derivación)
+* Hospitales del Servicio de Salud Metropolitano Oriente
+* Urgencias / SAPU
+* Tribunales (derivaciones judiciales)
+
+### MUNICIPALIDAD
+* Corporación de Salud de La Reina (gestiona la red)
+* Departamento/Dirección de Salud Municipal
+* DIDECO (adultos mayores, discapacidad, programas sociales)
+* Alcaldía y Concejo Municipal (presupuesto, decisiones)
 ## 8. Referentes
 ### Referentes Directos
 #### HEADSPACE
