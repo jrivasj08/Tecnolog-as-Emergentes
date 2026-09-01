@@ -17,12 +17,19 @@ Dificultades experimentadas por las personas de la comuna de La Reina durante el
 
 Los Centros Comunitarios de Salud Mental (COSAM) concentran una alta demanda de atención. En este contexto, la capacidad disponible no sería suficiente para atender oportunamente a todas las personas que requieren atención psiquiátrica. Lo anterior se traduce en largos periodos de espera para acceder a primeras consultas, además de la dificultad de mantener controles regulares, poniendo en riesgo la continuidad del tratamiento.
 
-
 ## 2. Investigación Cuantitativa
 
 ## 3. Investigación Cualitativa
 ## 4. Visita a Terreno
+Se visitó el COSAM de La Reina, donde observamos un gran espacio, con áreas verde, no se pudo ingresar a las salas de atención. Se solicita autorización para poder levantar información, y se nos entrega un correo de la directora para comunicarnos y solicitar información formal. También se comenta que el COSAM La Reina no tiene lista de espera activa. 
+
+<img width="1005" height="335" alt="image" src="https://github.com/user-attachments/assets/7fa5a91d-e684-4d49-a87f-de5dfd803ddd" />
+
 ## 5. Levantamiento de información a Pacientes
+Se creó una herramienta de recolección de información para acercar la problemática a los usuarios de La Reina, el formulario se adjunta a continuación.
+
+https://docs.google.com/forms/d/e/1FAIpQLScdjufHV4VQ7JOOukupfgmpKfExxAz17W6acFcgSy-trYCKOA/viewform
+
 ## 6. Problema y Objetivos
 
 #### PROBLEMÁTICA
@@ -55,6 +62,11 @@ Diseñar un sistema de acompañamiento para jóvenes adultos de 18 a 29 años de
 * Departamento/Dirección de Salud Municipal
 * DIDECO (adultos mayores, discapacidad, programas sociales)
 * Alcaldía y Concejo Municipal (presupuesto, decisiones)
+
+### Relación con la problemática 
+El siguiente diagrama visualiza como se relacionan los stakeholders con la problemática 
+<img width="557" height="477" alt="image" src="https://github.com/user-attachments/assets/b2a640a8-63d3-49c3-a493-47d6a7c1502a" />
+
 ## 8. Referentes
 ### Referentes Directos
 #### HEADSPACE
