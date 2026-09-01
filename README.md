@@ -70,7 +70,7 @@ En 2024 este indicador había sido de 51,01%.
 Por lo tanto, la cobertura aumentó en aproximadamente 5,5 puntos porcentuales entre 2024 y 2025. 
 Cálculo a partir de las cifras oficiales. 
 
-4.Cantidad de controles de salud mental 
+4. Cantidad de controles de salud mental 
 En 2025 se registró una tasa de 2,66 controles de atención integral por persona en el indicador de personas con factores de riesgo, condicionantes de salud mental y trastornos mentales. 
 La meta comprometida para 2025 era de 4,27 controles. 
 En 2024 la tasa registrada fue de 3,96 controles. 
