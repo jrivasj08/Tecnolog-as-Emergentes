@@ -3,9 +3,9 @@ Investigación de proyecto basado en mejorar la experiencia asociada a las lista
 
 ## Integrantes
 
-* Ambar Guerra
-* Javiera Jadue
-* Javiera Rivas
+* Ambar Guerra -
+* Javiera Jadue -
+* Javiera Rivas -
 
 ## 1. Problemática y enmarque
 
