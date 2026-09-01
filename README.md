@@ -3,7 +3,7 @@ Investigación de proyecto basado en mejorar la experiencia asociada a las lista
 
 ## Integrantes
 
-* Ambar Guerra -
+* Ambar Guerra 
 * Javiera Jadue -
 * Javiera Rivas -
 
