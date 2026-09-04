@@ -175,3 +175,25 @@ El desarrollo logístico fue encabezado por el equipo de Mercado Envíos, dirigi
 
 #### UBER
 Uber fue creado por Garrett Camp y Travis Kalanick. La idea surgió en 2008, cuando no lograron encontrar transporte en París. El desarrollo de la aplicación comenzó en 2009 y el servicio se lanzó oficialmente en 2010. Busca reducir la dificultad e incertidumbre asociadas a solicitar transporte, especialmente cuando la persona no sabe si encontrará un vehículo, cuánto tardará en llegar, dónde se encuentra o si surgió algún inconveniente. Su aplicación concentra toda la experiencia de solicitud y espera del viaje: solicitud desde el teléfono – asignación de conductor – tiempo estimado de llegada – ubicación en tiempo real – actualización permanente de la estimación – información del vehículo y conductor – notificación de llegada – comunicación directa – aviso de cancelaciones. El sistema actualiza continuamente el tiempo estimado y envía notificaciones cuando el conductor está próximo o ha llegado. Su principio rescatable es que cuando el tiempo de espera es variable, el sistema debe actualizar continuamente las expectativas de la persona, mostrarle el avance y comunicarle oportunamente cualquier cambio, sin esperar que ella tenga que preguntar qué está ocurriendo.
+
+## 9. Primer boceto de solución
+#### SISTEMA DE ACOMPAÑAMIENTO PARA PACIENTES 
+Cuando un joven entra en un proceso de salud mental, no solamente necesita una hora de atención, necesita entender que está ocurriendo, qué debe hacer mientras tanto y cómo mantenerse vinculado al sistema. 
+
+Un primer acercamiento a la solución es una aplicación o plataforma web, cuyo objetivo es acompañar a la persona desde que recibe la primera atención en el CESFAM. Dentro de las características necesarias que debe tener se encuentran:
+* Orientación clara del proceso
+* Información sobre la etapa de atención en que se encuentra (Cesfam, cosam, revisión de antecedentes)
+* Explicación del siguiente paso en su proceso
+* Recordatorios y notificaciones relevantes (recordatorios de consultas, alarmas de medicación, avances en el proceso)
+* Seguimientos breves de cómo se siente el paciente (Servirá como registro para el doctor cuando revise en consulta, aqui se pueden registrar crisis, uso de SOS, y manejo de situaciones de menor gravedad)
+* Recursos de autocuidado validados
+* Canales de contacto y orientación frente a situaciones urgentes (números, direcciones de urgencias psiquiátricas, télefono de prevención de suicidio del gobierno)
+* Posibilidad de incorporar una persona como apoyo emocional, con el fin de notificar en caso de peligro detectado.
+
+#### REVISAR LO SIGUIENTE (ÁMBAR Y JAVI)
+Ver posibilidad de generar instancias presenciales levantadas por la app, por ejemplo, talleres, círculos de conversación, para generar comunidad entre los pacientes de la comuna. 
+
+Esta aplicación no diagnosticaría, priorizaría pacientes ni reemplazaría la atención profesional. Sus funciones son comprender preguntas, entregar información validada y personalizar la orientación. Las situaciones de riesgo deberían manejarse mediante reglas claras de seguridad y derivación a canales humanos.
+
+#### Propuesta de valor
+La aplicación transforma un periodo de espera incierto en un recorrido comprensible y acompañado, ayudando a los jóvenes a saber que está ocurriendo, que pueden hacer y cuál es su siguiente paso, sin exigirles entender previamente cómo funciona la red pública de salud mental. 
