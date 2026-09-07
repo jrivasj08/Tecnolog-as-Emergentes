@@ -198,7 +198,7 @@ Esta aplicación no diagnosticaría, priorizaría pacientes ni reemplazaría la 
 #### Propuesta de valor
 La aplicación transforma un periodo de espera incierto en un recorrido comprensible y acompañado, ayudando a los jóvenes a saber que está ocurriendo, que pueden hacer y cuál es su siguiente paso, sin exigirles entender previamente cómo funciona la red pública de salud mental. 
 
-##### ideas clase 4sept
+## ideas clase 4sept
 CRAZY 8S:  
 
 -KIT DE ACOMPAÑAMIENTO DE ESPERA 
