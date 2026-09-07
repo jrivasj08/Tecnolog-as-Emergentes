@@ -197,3 +197,70 @@ Esta aplicación no diagnosticaría, priorizaría pacientes ni reemplazaría la 
 
 #### Propuesta de valor
 La aplicación transforma un periodo de espera incierto en un recorrido comprensible y acompañado, ayudando a los jóvenes a saber que está ocurriendo, que pueden hacer y cuál es su siguiente paso, sin exigirles entender previamente cómo funciona la red pública de salud mental. 
+
+##### ideas clase 4sept
+CRAZY 8S:  
+
+-KIT DE ACOMPAÑAMIENTO DE ESPERA 
+-MAPA DE RUTA DE COMO VA EL PROCESO 
+-PEQUEÑOS CHEQUEOS DURANTE LA ESPERA VIA MENSAJDE DE TEXTO O SIMILAR 
+-ACOMPAÑAMIENTO VIRTUAL
+-CENTROS DE APOYO COMUNITARIOS  
+-MATERIAL DE APOYO AL MOMENTO DE ENTRAR A LA FILA DE ESPERA 
+-CHAT QUE ACOPAÑA DURANTE ESPERA (tipo conversaciones) 
+-CALENDARIO DE ESPERA (PARA VIZUALIZACION) 
+-APLICACION DE ACOMPAÑAMIENTO
+
+SCAMPER:  
+S:  
+-Reemplazar el kit físico por un formato digital de fácil acceso, como WhatsApp.  
+-Reemplazar los mensajes automáticos por audios o videos cortos, para hacer la información más cercana.  
+-Reemplazar el calendario por una línea de tiempo visual del proceso.  
+-Reemplazar el acompañamiento de un profesional por un sistema de acompañamiento entre pares capacitados. 
+
+C: 
+-Combinar el kit + mapa de ruta + calendario -> un solo recurso que acompañe todo el proceso.  
+-Combinar el chat + chequeos -> conversaciones breves que permitan saber cómo está la persona.  
+-Combinar el material de apoyo + aplicación -> información física con acceso a recursos digitales.  
+-Combinar centros comunitarios + acompañamiento virtual ->  espacios físicos donde también se pueda acceder a orientación digital. 
+ 
+A:  
+-De Uber: adaptar el seguimiento del recorrido -> mostrar en qué etapa está la derivación. 
+-De Mercado Libre: adaptar las notificaciones de envío ->  avisar cuando cambia el estado del proceso.  
+-De Disney: adaptar la gestión de filas -> hacer que la espera sea más comprensible y menos pasiva.  
+-De Wysa: adaptar las conversaciones ->  que el sistema parta preguntando cómo se siente la persona.  
+-De Headspace: adaptar la orientación centrada en jóvenes -> diseñar el sistema desde el recorrido del joven y no desde la estructura institucional
+
+M:  
+-Reducir la cantidad de información entregada al inicio -> entregar solo lo necesario en cada etapa.  
+-Aumentar la frecuencia de contacto cuando la espera se prolonga.  
+-Reducir el calendario a hitos importantes.  
+-Modificar el kit para que sea pequeño, portable y personalizable.  
+-Aumentar el nivel de acompañamiento según las necesidades de cada usuario. 
+
+P:  
+-El mapa de ruta no solo para informar, sino para explicar el proceso a familiares/cuidadores.  
+-El calendario podría servir para registrar preguntas o inquietudes para la próxima consulta.  
+-El kit podría funcionar como una herramienta para preparar para la primera atención.  
+-El chat podría entregar información sobre recursos disponibles en la comuna.  
+-Los centros comunitarios podrían funcionar como espacios de orientación incluso antes de la derivación. 
+
+E: 
+-Kit de acompañamiento: eliminar el formato físico ->  convertirlo en un recurso digital.  
+-Mapa de ruta: eliminar el exceso de información -> dejar solamente los hitos principales.  
+-Chequeos por mensaje: eliminar las respuestas largas ->  convertirlos en preguntas muy breves.  
+-Acompañamiento virtual: eliminar la necesidad de interacción constante ->  que funcione principalmente cuando el usuario lo necesite.  
+-Centros de apoyo comunitarios: eliminar la necesidad de crear nuevos centros -> utilizar espacios comunitarios que ya existen.  
+-Material de apoyo: eliminar el material entregado de una vez -> entregar la información progresivamente (dependiendo del material) 
+-Calendario de espera: eliminar las fechas exactas ->  mostrar solamente etapas/hitos, evitando generar expectativas sobre tiempos que pueden cambiar. 
+
+R: 
+-Kit de acompañamiento: en vez de entregar todo al inicio -> entregar distintos contenidos según la etapa del proceso.  
+-Mapa de ruta: en vez de mostrar el proceso completo -> mostrar primero dónde está el usuario y luego qué viene.  
+-Chequeos: en vez de preguntar todo el rato “¿cómo estás?” -> hacer el chequeo justo en momentos importantes del proceso.  
+-Acompañamiento virtual: en vez de que el usuario busque al acompañante -> que el sistema active el contacto según la etapa o necesidad.  
+-Centros comunitarios: en vez de ser lugares a los que acudir durante la espera -> convertirlos en puntos de orientación desde el comienzo.  
+-Material de apoyo: en vez de entregarlo después de la derivación -> entregarlo inmediatamente cuando entra a la espera.  
+-Chat: en vez de que sea solamente una conversación -> que primero identifique la necesidad y después entregue la orientación correspondiente.  
+-Calendario: en vez de contar los días que faltan -> mostrar los avances que ya se han logrado.  
+-Aplicación: en vez de ser una herramienta que el joven abre cuando quiere -> hacer que funcione como un acompañante que va apareciendo durante las distintas etapas. 
