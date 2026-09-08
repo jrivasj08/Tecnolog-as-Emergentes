@@ -419,9 +419,12 @@ La acción sería llevar deliberadamente la atención hacia: mano → textura �
 Es una traducción objetual de técnicas de grounding, sin convertirlas en una ficha clínica.
 
 3. Cuando necesito soltar
+
 Estado: mandíbula apretada, manos tensas, hombros elevados, inquietud corporal, necesidad de descargar.
+
 ¿Qué ocurre?
 La respuesta de estrés prepara también al sistema musculoesquelético para actuar, por lo que puede aumentar la contracción muscular sostenida.
+
 ¿Qué ayuda?
 La relajación muscular progresiva consiste justamente en tensar voluntariamente un grupo muscular y luego liberarlo, haciendo perceptible el contraste entre tensión y relajación. Una revisión sistemática de 46 estudios y más de 3.400 adultos encontró evidencia favorable para reducir estrés y ansiedad.
 
@@ -435,7 +438,9 @@ vuelve lentamente a su forma.
 Su función no sería simplemente entretener las manos, sino permitir una acción corporal repetitiva y consciente.
 
 4. Cuando necesito sostenerme
+
 Estado: vulnerabilidad, necesidad de contención, soledad o sensación de no poder con todo en ese momento.
+
 ¿Qué ocurre?
 El estrés no es solo cognitivo. El cuerpo también responde a señales de seguridad y contacto.
 
