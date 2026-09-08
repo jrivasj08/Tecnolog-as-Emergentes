@@ -190,7 +190,7 @@ Un primer acercamiento a la solución es una aplicación o plataforma web, cuyo 
 * Canales de contacto y orientación frente a situaciones urgentes (números, direcciones de urgencias psiquiátricas, télefono de prevención de suicidio del gobierno)
 * Posibilidad de incorporar una persona como apoyo emocional, con el fin de notificar en caso de peligro detectado.
 
-#### REVISAR LO SIGUIENTE (ÁMBAR Y JAVI)
+#### REVISAR LO SIGUIENTE (AMBAR Y JAVI)
 Ver posibilidad de generar instancias presenciales levantadas por la app, por ejemplo, talleres, círculos de conversación, para generar comunidad entre los pacientes de la comuna. 
 
 Esta aplicación no diagnosticaría, priorizaría pacientes ni reemplazaría la atención profesional. Sus funciones son comprender preguntas, entregar información validada y personalizar la orientación. Las situaciones de riesgo deberían manejarse mediante reglas claras de seguridad y derivación a canales humanos.
@@ -264,3 +264,191 @@ R:
 -Chat: en vez de que sea solamente una conversación -> que primero identifique la necesidad y después entregue la orientación correspondiente.  
 -Calendario: en vez de contar los días que faltan -> mostrar los avances que ya se han logrado.  
 -Aplicación: en vez de ser una herramienta que el joven abre cuando quiere -> hacer que funcione como un acompañante que va apareciendo durante las distintas etapas. 
+
+## ideas 7 sept
+Objeto 
+Un objeto físico que permite a dos personas hacerse presentes, usuario 1 mediante la pedida de ayuda (ayuda brindada por el objeto mediantes vibraciones, cambios de luz, sonidos) y usuario 2 a modo de aviso de lo que le esta pasando al usuario 1. Puede ser algo apretable, algo que se ocupa tipo accesorio, etc. 
+
+Lampara 
+Cambios de luz a modo de diferentes respiraciones que sirven para diferentes cosas (calma, ansiedad, etc) 
+
+Objeto corporal  
+Trasmision de diferentes estimulos que, al ponerselo, ayuda a la vuelta a la calma (peso, pulsos, etc) 
+
+Objeto tipo capsula 
+Puedes contarle como te sientes y el objeto reacciona dependiendo del tono de la conversacion, para sentir compañía. Las conversaciones quedan guardadas para que luego, un supervisor medico tenga los datos. 
+
+Objeto que responde al contacto humano 
+Un objeto que solo funciona cuando existe contacto físico. Mientras alguien lo sostiene, toca o abraza, comienza a generar diferentes estimulos para acompañar. 
+Puede existir una segunda versión del objeto para otra persona, donde el contacto de una activa la respuesta de la otra. 
+
+### bajando y justificando ideas
+La ansiedad, estrés y depresión no son lo mismo, aunque pueden compartir síntomas. Y las estrategias de autorregulación pueden ayudar a manejar síntomas leves o momentos puntuales, pero no sustituyen el tratamiento de un trastorno depresivo o de ansiedad.
+
+#### Ansiedad
+La ansiedad suele involucrar una activación de alerta del organismo, por eso muchas de sus manifestaciones son corporales.
+
+##### Manifestaciones
+Corporales
+Respiración rápida o superficial
+Aumento de frecuencia cardíaca
+Tensión muscular
+Sudoración
+Temblor
+Sensación de opresión
+Mareos
+Malestar gastrointestinal
+Sensación de inquietud
+
+Cognitivos
+Preocupación excesiva
+Pensamientos repetitivos
+Dificultad para concentrarse
+Sensación de que algo malo va a ocurrir
+
+Conductuales
+Evitación
+Inquietud
+Dificultad para quedarse quieto
+Necesidad de comprobar o controlar cosas
+
+¿Qué puede ayudar sin intervención de otra persona?
+Respiración lenta/diáfragmática.
+Tiene bastante sentido para su proyecto porque actúa directamente sobre una manifestación corporal de la ansiedad. La evidencia revisada por NCCIH indica que la respiración lenta y profunda puede producir una reducción moderada de presión arterial y cortisol, y existe evidencia preliminar de reducción del estrés.
+
+Relajación muscular progresiva.
+Consiste en tensar y posteriormente liberar grupos musculares. Puede ayudar a disminuir estrés y tiene efectos positivos sobre síntomas de ansiedad y depresión en algunas personas.
+
+Mindfulness / atención al presente.
+Puede ayudar a reducir síntomas de estrés y ansiedad y mejorar el sueño.
+
+
+#### Estrés
+El estrés activa una respuesta fisiológica de “lucha o huida”: aumentan la frecuencia cardíaca y respiratoria y se liberan hormonas relacionadas con la respuesta de estrés. La respuesta de relajación hace prácticamente lo contrario: disminuye frecuencia cardíaca, presión arterial y respiración.
+
+##### Manifestaciones
+
+Corporales
+Tensión muscular
+Dolor de cabeza
+Taquicardia
+Respiración acelerada
+Problemas digestivos
+Fatiga
+Problemas de sueño
+
+Mentales
+Dificultad para concentrarse
+Sensación de estar sobrepasado
+Irritabilidad
+Preocupación
+Pensamientos repetitivos
+
+Conductuales
+Alteraciones del sueño
+Comer más o menos
+Aislamiento
+Dificultad para realizar tareas
+
+¿Qué puede ayudar?
+Respiración lenta → puede disminuir activación fisiológica.
+
+Relajación muscular → permite identificar y liberar tensión corporal.
+
+Actividad física → NIMH y OMS la incluyen entre las estrategias que pueden contribuir al bienestar y manejo de síntomas.
+
+Sueño regular → mantener horarios regulares de sueño forma parte de las recomendaciones de autocuidado.
+
+Reducir cafeína → NIMH específicamente recomienda evitar el exceso de cafeína cuando se está lidiando con estrés.
+
+#### Depresión
+No es simplemente “estar triste” ni algo que se pueda solucionar con un objeto de regulación.
+
+##### Manifestaciones
+Tristeza, vacío o ansiedad persistente
+Desesperanza
+Irritabilidad
+Culpa o sensación de inutilidad
+Pérdida de interés o placer
+Fatiga y falta de energía
+Dificultad para concentrarse
+Alteraciones del sueño
+Cambios de apetito o peso
+Dolores o molestias físicas
+Pensamientos relacionados con la muerte o suicidio
+
+
+### IDEA MAS ATERRIZADA 
+Familia de 4 objetos
+1. Cuando necesito bajar
+Para estados de agitación, respiración acelerada, tensión o sensación de sobrecarga.
+Estado: aceleración, respiración rápida, palpitaciones, sensación de alerta o sobrecarga.
+¿Qué ocurre?
+Predomina la activación simpática: el corazón y la respiración se aceleran y el organismo se prepara para responder a una amenaza.
+¿Qué ayuda?
+La respiración lenta y controlada, cercana a 5–6 respiraciones por minuto, favorece la regulación cardiorrespiratoria y aumenta la variabilidad de la frecuencia cardíaca. Estudios experimentales también muestran beneficios cuando la exhalación es más prolongada.
+
+Un objeto de mano que marque físicamente un ritmo lento. Podría tener un recorrido que el dedo sigue mientras respira: subir mientras inhala y bajar lentamente mientras exhala.
+No sería simplemente una pelota antiestrés. El objeto enseña una acción corporal.
+Trabajar con:
+respiración lenta;
+ritmo;
+repetición;
+peso en la mano;
+movimiento continuo.
+
+La forma puede decirle qué hacer sin necesitar instrucciones largas.
+
+2. Cuando necesito volver
+Para momentos en que la persona está muy atrapada en pensamientos, se siente sobrepasada o desconectada de lo que ocurre alrededor.
+Estado: pensamientos que abruman, sensación de desconexión, dificultad para concentrarse en el presente.
+¿Qué ocurre?
+La atención puede quedar excesivamente capturada por estímulos internos, como pensamientos, recuerdos o sensaciones corporales, haciendo más difícil orientarse hacia lo que está ocurriendo aquí y ahora.
+¿Qué ayuda?
+Las técnicas de grounding redirigen deliberadamente la atención hacia información sensorial presente: lo que veo, escucho o toco. El National Center for PTSD de EE. UU. utiliza precisamente estímulos visuales, auditivos y táctiles para favorecer la orientación hacia el entorno actual.
+
+Un objeto de anclaje sensorial.
+Puede incorporar:
+distintas texturas;
+temperatura del material;
+relieves;
+formas para recorrer;
+pequeños cambios de resistencia.
+
+La acción sería llevar deliberadamente la atención hacia: mano → textura → temperatura → presión → entorno.
+Es una traducción objetual de técnicas de grounding, sin convertirlas en una ficha clínica.
+
+3. Cuando necesito soltar
+Estado: mandíbula apretada, manos tensas, hombros elevados, inquietud corporal, necesidad de descargar.
+¿Qué ocurre?
+La respuesta de estrés prepara también al sistema musculoesquelético para actuar, por lo que puede aumentar la contracción muscular sostenida.
+¿Qué ayuda?
+La relajación muscular progresiva consiste justamente en tensar voluntariamente un grupo muscular y luego liberarlo, haciendo perceptible el contraste entre tensión y relajación. Una revisión sistemática de 46 estudios y más de 3.400 adultos encontró evidencia favorable para reducir estrés y ansiedad.
+
+Para tensión corporal, inquietud o necesidad de descargar físicamente.
+Objeto que:
+se comprime;
+se retuerce;
+se estira;
+ofrece resistencia;
+vuelve lentamente a su forma.
+Su función no sería simplemente entretener las manos, sino permitir una acción corporal repetitiva y consciente.
+
+4. Cuando necesito sostenerme
+Estado: vulnerabilidad, necesidad de contención, soledad o sensación de no poder con todo en ese momento.
+¿Qué ocurre?
+El estrés no es solo cognitivo. El cuerpo también responde a señales de seguridad y contacto.
+
+Puede ser un objeto que se sostiene, se apoya sobre las piernas, se abraza entre las manos o acompaña a la persona en ciertos momentos.
+Puede incorporar:
+peso;
+temperatura;
+suavidad;
+ergonomía;
+presión en manos;
+gestos culturalmente asociados al cuidado.
+
+##### Entender cómo estoy ahora.
+Reconocer - entender cómo estoy ahora - regular - tener una acción concreta que pueda hacer con mi cuerpo - acompañar - sentir que sigo dentro de un proceso de cuidado aunque todavía no esté en terapia regular.
+
+
