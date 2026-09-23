@@ -453,7 +453,37 @@ ergonomía;
 presión en manos;
 gestos culturalmente asociados al cuidado.
 
+
 ##### Entender cómo estoy ahora.
 Reconocer - entender cómo estoy ahora - regular - tener una acción concreta que pueda hacer con mi cuerpo - acompañar - sentir que sigo dentro de un proceso de cuidado aunque todavía no esté en terapia regular.
 
+### SENSORES ( ESPC32 )
+#### MEDICIONES EN EL ESPACIO EXTERNO (de la persona) 
 
+Pulso cardiaco -> se mide por frecuencia cardiaca (bpm) -> ESP 32 Sensor Óptico MAX30102 (o MAX30100) -> Mide la frecuencia cardíaca (BPM) y la saturación de oxígeno en la sangre (SpO2) usando luz infrarroja y roja. -> Cómo funciona: Usa fotodetectores y luces LED que rebotan en la piel para detectar los cambios en el flujo sanguíneo (en la yema de un dedo o la muñeca haciendo contacto firme con la piel) 
+
+https://uelectronics.com/producto/max30100-heart-rate-sensor-de-pulso-cardiaco/?srsltid=AU7gw4XhRETtNtQ6-vUR9z48zK-iPCGB5Z4-ASklNZUiQXEmzXM2wgc1  
+
+https://altronics.cl/sensor-gy-max30100?gad_source=1&gad_campaignid=24271505477&gbraid=0AAAAA9-cqYPY3fMdUDfRqZsGJomUCzs9u&gclid=Cj0KCQjwzsjVBhC3ARIsALnMv4kaSGtX89j1HvMo4c223CoF28Fw_YlMO10Yw0vHUVwyw4QSHCG6_ZEaAtlbEALw_wcB  
+
+Temperatura corporal -> se mide por grados Celsius -> ESP 32 Sensor DS18B20 -> funciona mediante conducción térmica directa al entrar en contacto con la piel o una zona del cuerpo. 
+
+https://naylampmechatronics.com/blog/46_tutorial-sensor-digital-de-temperatura-ds18b20.html  https://www.google.com/search?q=Sensor+DS18B20+COMO+FUNCIONA+EN+EL+CUERPO&sca_esv=960ebe0ff818793a&sxsrf=APpeQnsKzWixhl57-O9QHXFsw8EiBGXwkg%3A1790081692327&ei=nHqyaqW3E-PP1sQP6fSMyQM&biw=1536&bih=695&uact=5&oq=Sensor+DS18B20+COMO+FUNCIONA+EN+EL+CUERPO&gs_lp=Egxnd3Mtd2l6LXNlcnAiKVNlbnNvciBEUzE4QjIwIENPTU8gRlVOQ0lPTkEgRU4gRUwgQ1VFUlBPMgUQIRigATIFECEYoAFIri9QvwRY8ixwAngBkAEAmAFroAHOD6oBBDI2LjK4AQPIAQD4AQGYAh6gAoERwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAhcQLhjcBhi4BhjaBhjYAhjIAxiwA9gBAcICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGMsBwgIGEAAYFhgewgIFEAAY7wXCAggQABiABBiiBMICCBAAGIkFGKIEwgIEECEYFZgDAIgGAZAGDLoGBAgBGBmSBwQyOC4yoAeRZLIHBDI2LjK4B_EQwgcIMC45LjIwLjHIB3GACAE&sclient=gws-wiz-serp 
+
+#### MEDICIONES EN EL ESPACIO INTERNO (lugar seguro, casa) 
+
+Lux/cantidad de luz -> se mide por Lux (lx) -> ESP 32 BH1750 (comúnmente en el módulo GY-302) ->  sensor digital de intensidad lumínica que mide el brillo directamente en unidades Lux. 
+
+https://altronics.cl/modulo-gy-302-bh1750  
+
+Ruido -> se mide en decibeles -> ESP 32 Sensor de Sonido KY-037 -> módulo electrónico con micrófono de condensador diseñado para detectar niveles de ruido y vibraciones acústicas en el ambiente. 
+
+https://altronics.cl/sensor-sonido-ky-037  
+
+Temperatura ambiental -> se mide en grados Celsius -> Sensor de Temperatura Humedad y Presión AHT20+BMP280 ESP32 Arduino -> Módulo digital de alta precisión que integra los sensores AHT20 (temperatura y humedad) y BMP280 (presión atmosférica y temperatura), permitiendo la medición simultánea de temperatura, humedad relativa y presión de aire mediante comunicación I2C. Diseñado para bajo consumo energético, alta estabilidad y rápida respuesta, ideal para proyectos IoT, meteorología, automatización y electrónica educativa.  
+
+https://vshop.cl/modulos-arduino-esp32/1649-sensor-de-temperatura-humedad-y-presion-aht20bmp280-esp32-arduino.html?srsltid=AU7gw4UFiQdyi0rae0vkadAbONZqjSDKZZvxMTjuutWKNOfNRMHEw3h7  
+
+ 
+
+ 
