@@ -528,8 +528,51 @@ segundos bocetos de objeto interior:
 Las formas del objeto deben responder a las posturas en las cuales se puede agarrar y a los tipos de agarre propuestos
 
 
+INTERFAZ
+debe almacenar datos de:
+OBJETO EXTERNO
+1. Estado actual del usuario
+-Pulso cardíaco
+-Oxigenación / SpO₂
+-Temperatura 
+-Actividad electrodérmica
+-Fecha
+-Hora
+-Ubicación
+-Duración
+Y DETEREMINAR SI: estado actual estable ó estado actual en posible crisis
+si la posibe criris ocurre en el exterior, iniciar vibraciones espejo, dpnde en un lado del objeto (tipo braxalete) vibrar en cierto ritmo, y el usuario tiene que copiar estas vibraciones para ayudar a calmar.
 
+2. Historial fisiológico
+-Gráficos de frecuencia cardíaca
+-Variaciones durante el día
+-Registro de episodios de activación
+-Duración de cada episodio
+-Hora 
+-Evolución antes → durante → después
+-Frecuencia de episodios por día/semana
 
+OBJETO INTERNO
+1. Datos ambientales (que pueden o no estan conectados con la posible crisis)
+-Temperatura ambiente
+-Humedad
+-Calidad del aire, si tienen sensor
+-Luminosidad
+-Ruido, si lo están midiendo
+-Hora
+2. Datos de posible criris
+-Activación del objeto
+-Hora de activación
+-Tipo de acompañamiento:
+respiración
+contención
+ambos
+-Duración de uso
+-Ciclos de respiración realizados
+-Intensidad/progresión de la luz
+-Contacto o no con el objeto
+
+PAGINA DE RESUMEN/ HISTORIAL, con los datos mas relevantes wuwe tienen cierta conexión para asi enviar alertas al COSAM 
 
 
 
