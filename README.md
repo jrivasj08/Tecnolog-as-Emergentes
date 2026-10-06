@@ -485,5 +485,9 @@ Temperatura ambiental -> se mide en grados Celsius -> Sensor de Temperatura Hume
 https://vshop.cl/modulos-arduino-esp32/1649-sensor-de-temperatura-humedad-y-presion-aht20bmp280-esp32-arduino.html?srsltid=AU7gw4UFiQdyi0rae0vkadAbONZqjSDKZZvxMTjuutWKNOfNRMHEw3h7  
 
  
+### clase 26/sept
+Ubicación -> Sensor de geolocaclización ->modulo GPS NEO-6M -> receptor de geolocalización de bajo costo y alta sensibilidad
+https://afel.cl/products/gps-ublox-neo-6m-v2-con-memoria-eeprom?variant=45125231345816&country=CL&currency=CLP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VlYiCrIiDMW9rfVpyqDfezJSE6DSDlI3FNzQaBPpRekLtylh3kj9w
 
- 
+Interacción entre lo que pasa en el dispositivo personal y el dispositivo interno, para así poder trasmitir la infrormación: dispositivo 1 -> dispositivo 2 -> base de datos 
+
