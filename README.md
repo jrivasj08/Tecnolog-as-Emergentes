@@ -485,9 +485,56 @@ Temperatura ambiental -> se mide en grados Celsius -> Sensor de Temperatura Hume
 https://vshop.cl/modulos-arduino-esp32/1649-sensor-de-temperatura-humedad-y-presion-aht20bmp280-esp32-arduino.html?srsltid=AU7gw4UFiQdyi0rae0vkadAbONZqjSDKZZvxMTjuutWKNOfNRMHEw3h7  
 
  
-### clase 26/sept
+### clase 25/sept
 Ubicación -> Sensor de geolocaclización ->modulo GPS NEO-6M -> receptor de geolocalización de bajo costo y alta sensibilidad
 https://afel.cl/products/gps-ublox-neo-6m-v2-con-memoria-eeprom?variant=45125231345816&country=CL&currency=CLP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4VlYiCrIiDMW9rfVpyqDfezJSE6DSDlI3FNzQaBPpRekLtylh3kj9w
 
 Interacción entre lo que pasa en el dispositivo personal y el dispositivo interno, para así poder trasmitir la infrormación: dispositivo 1 -> dispositivo 2 -> base de datos 
+
+### clase 29/sept
+correcciones de sensores y entrega encargo de PRIMERAS PROPUESTAS FORMALES DE OBJETO INTERIOR Y EXTERIOR
+
+### CLASE 2/OCTUBRE
+primeros bocetos de formas de ambos objetos:
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-06 at 09 38 35" src="https://github.com/user-attachments/assets/76195112-58a9-4aa9-add1-81d839d2f84f" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 38 35 (1)" src="https://github.com/user-attachments/assets/9c286f35-3c17-40dd-960a-688c5226dc7d" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-06 at 09 38 35" src="https://github.com/user-attachments/assets/cc7ac817-d07b-41ed-b011-74fe71b53d71" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-06 at 09 38 35 (2)" src="https://github.com/user-attachments/assets/40c416f1-6be9-4263-af6e-c74e595a109f" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-10-06 at 09 38 35 (3)" src="https://github.com/user-attachments/assets/f54e5ae7-ad6b-4a1b-b45d-a7048a9c811e" />
+
+y primeros testeos de formas tangibles de objeto exterior (de la persona) con plasticina para ver tamaño y posicionamiento de sensores acorde a la posicion de los dedos al toca el objeto:
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39" src="https://github.com/user-attachments/assets/f7c741c5-4a2c-46ec-bccd-5c2ad28987e1" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (1)" src="https://github.com/user-attachments/assets/c7bf5a05-42fb-4a67-bf52-d6fbb0bf34e5" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (2)" src="https://github.com/user-attachments/assets/ee0ebfec-a50e-45be-b084-58f8d31867da" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (3)" src="https://github.com/user-attachments/assets/423f4e9c-a586-4450-af6a-c5e8411ff667" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (4)" src="https://github.com/user-attachments/assets/b8263a75-eac6-42aa-a290-95815ba85f0a" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (5)" src="https://github.com/user-attachments/assets/cdd3b709-a035-4249-8d45-9aefaf7bc65e" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (6)" src="https://github.com/user-attachments/assets/1e9b50ab-d4bd-4767-9f84-bcbf55efec4a" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-06 at 09 42 39 (7)" src="https://github.com/user-attachments/assets/346fe367-02a1-49fd-9bd9-f97406ee0a76" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed3f8deb-2b55-4941-bf58-0ee6045f9d21" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2e97bc34-461d-4be8-ae92-df5218badf00" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/401bee85-7049-4ef5-8df2-12d057799706" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/332b160b-8563-4b20-94ee-81a54efcb3ae" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fc2402c3-f159-420d-a3d1-eb70a529c0a3" />
+
+### clase 6/octubre
+segundos bocetos de objeto interior: 
+-adaptados a la forma de contención de las personas, en base a 3 posturas simples: 
+1. sentado
+2. reclinado (espalda apoyada y piernas estiradas)
+3. acostado (completamente acostado)
+   
+-4 tipos de agarre: abrazo cruzado, abrazo desde el costado, desde abajo, y agarre de manos.
+Las formas del objeto deben responder a las posturas en las cuales se puede agarrar y a los tipos de agarre propuestos
+
+
+
+
+
+
+
+
+
+
+
 
