@@ -526,6 +526,9 @@ segundos bocetos de objeto interior:
    
 -4 tipos de agarre: abrazo cruzado, abrazo desde el costado, desde abajo, y agarre de manos.
 Las formas del objeto deben responder a las posturas en las cuales se puede agarrar y a los tipos de agarre propuestos
+BOCETOS
+<img width="1280" height="1031" alt="image" src="https://github.com/user-attachments/assets/6d2b28ea-e0a1-43b6-8040-8f6e505e9b60" />
+<img width="975" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba6833f9-fcff-4db9-99c0-369119fb7b2b" />
 
 
 INTERFAZ
